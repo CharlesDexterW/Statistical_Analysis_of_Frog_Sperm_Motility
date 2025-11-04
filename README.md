@@ -79,6 +79,8 @@ So far, there's a significant difference between time lapses in the second treat
 
 
 **Table 1. Two-way ANOVA test result of the comparison between CPA1 & CPA2**
+
+
 Notes: Test carried with Motility as the dependent variable and Treatment and Time_Lapse as the two independent variables.
 |      | Df     | Sum sq | Mean sq  | F value | Pr(>F)  |
 | :--- | :---:  | ---:   | :---:    |:---:    |:---:    |
