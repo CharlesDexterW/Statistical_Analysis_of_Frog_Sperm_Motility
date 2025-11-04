@@ -78,13 +78,15 @@ Additionally, it'll calculate a statistically appropriate sample size via ANOVA 
 So far, there's a significant difference between time lapses in the second treatment. The Tukey test indicates a significant difference in Time 5  in comparison to the Times 15 and 20, during the second treatment. However, these preliminary results come from a sample too small to be considered statistically significant, according to the One-way ANOVA run at the end of the code. 
 
 
-**Table 1. Optimal Conditions and Characteristics for Three Key Digestive Enzymes.**
+**Table 1. Two-way ANOVA test result of the comparison between CPA1 & CPA2**
+Notes: Test carried with Motility as the dependent variable and Treatment and Time_Lapse as the two independent variables.
 |      | Df     | Sum sq | Mean sq  | F value | Pr(>F)  |
 | :--- | :---:  | ---:   | :---:    |:---:    |:---:    |
 | Treatment | 1 | 303 | 302.5 | 1.246 | | 0.272 |
 | Time_Lapse | 1 | 1659 | 1658.9 | 6.831 | 0.013 * | 
 | Treatment: Time _ Lapse | 1 | 37 | 37.0 | 0.152 | 0.699 |
 | Residuals | 36 | 8742 | 242.8 |
+
 
 <p align="center">
   <img src="https://github.com/CharlesDexterW/Statistical_Tests/blob/main/CPA1_Jitter_Plor.png?raw=true" width="450" hspace="20">
